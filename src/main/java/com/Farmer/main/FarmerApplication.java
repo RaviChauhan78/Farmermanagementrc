@@ -11,7 +11,8 @@ public class FarmerApplication {
 
     public static void main(String[] args) throws Exception {
         SpringApplication.run(FarmerApplication.class, args);
-    }
+        System.out.println("Ravi chauhan ");
+    } 
     
     @Bean
     public ViewResolver viewResolver() {

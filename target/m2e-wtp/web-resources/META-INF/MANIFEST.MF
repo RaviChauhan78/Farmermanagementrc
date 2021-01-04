@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Farmer
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: ABCD
+Implementation-Vendor-Id: com.Farmer.main
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Farmer
+Created-By: Maven Integration for Eclipse
+
